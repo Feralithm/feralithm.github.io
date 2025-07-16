@@ -7,8 +7,8 @@ hb.addEventListener('click', function() {
     navmenu.classList.toggle('hidden')
 });
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxGoPifMcR1cYFL4Xkssvizj6Mt59UUMCayrEvOu4QrSTZuZtgRbzfGr9eVITD63vSJ/exec'
-    const form = document.forms['My-web-portfolio contact form'];
+const scriptURL = 'https://script.google.com/macros/s/AKfycby63vq8AjgnSwqO9AvxIuwmJznPvBhUGDC5ATI3OWPw9lc6NBla2FXeyucsWYfNErQI/exec'
+    const form = document.forms['My-web-portfolio-contact-form'];
     const myAlert = document.getElementById('alert');
     const btn = document.getElementById('btn');
     
