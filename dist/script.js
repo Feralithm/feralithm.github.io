@@ -7,7 +7,7 @@ hb.addEventListener('click', function() {
     navmenu.classList.toggle('hidden')
 });
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyYjFpycxOmvTF-1UmyzN4a83sGka9gAq_mAlY8fMF16wbmYtR4mfxrBtJ4l1utiNgR/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzkDDkDb7_-RpkyAR2VLFc3JdzSMrBD8_kv5XhvkweizlN3rOYsqkCwWDSiQPKFLr2P/exec'
     const form = document.forms['My-web-portfolio-contact-form'];
     const myAlert = document.getElementById('alert');
     const btn = document.getElementById('btn');
